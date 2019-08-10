@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/koen_hendriks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://koenhendriks.com
+  * I am koen_hendriks (https://keybase.io/koen_hendriks) on keybase.
+  * I have a public key with fingerprint 0A1F 0F95 47D3 3CBC E705  673E 85ED 85A6 2630 CCCF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012cdb8879c5c1795e6e7c3f85d94d12468aa4f874fd1814b902aefe1ed7a5203d0a",
+      "fingerprint": "0a1f0f9547d33cbce705673e85ed85a62630cccf",
+      "host": "keybase.io",
+      "key_id": "85ed85a62630cccf",
+      "kid": "01012cdb8879c5c1795e6e7c3f85d94d12468aa4f874fd1814b902aefe1ed7a5203d0a",
+      "uid": "e7cbc3ac67668b94a5d9acd0fe17f719",
+      "username": "koen_hendriks"
+    },
+    "merkle_root": {
+      "ctime": 1532329520,
+      "hash_meta": "21b4b591548e678b330fbbcec889bcc576a39d036d888f3a6d3aa902114e63b1",
+      "seqno": 3314004
+    },
+    "revoke": {
+      "sig_ids": [
+        "25ad4a6ab08799e197c0fabf93beb7761038eea0b78217abe60e78ae8f1145260f"
+      ]
+    },
+    "service": {
+      "hostname": "koenhendriks.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1532329531,
+  "expire_in": 157680000,
+  "prev": "bdfa6344a868c48ecf0131f8e3ebadc6ee12eb3ddd8cd12745f3ff21cde2df7a",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMK/AnicrZNtiBVVHMbvptvSarhtRFYfbAchil07Z87MOWfuBoaULFRSC7LCXb2d
+l/+5O9y9M7eZ2esutlpGLpKx+ZbBBkZaHwJp0w9lKuliL1JCBKWhQVsqkZBGWkFm
+nVmSIvrYfBnmzPN/nmd+c87RG2cVWptOrt3f/tDmT95r+nhq3VChtHxt9xpHxnrE
+Ka5xqjBzg0ENaVauhtopOggj7CotOWeB8hVmgQ8UmCKG+zrwNHY9yoXwDGee0Zhj
+TwbIFWAAg2bCdxHRSDidjgmjCiT1JIyy3FZgg0zge0wToqQChnzKCHAfNPcFdSlB
+SiljBwfiNJ+w5aRIYVEY2zX7UJ6p9x/6/7n30IydnZSKCEUZpVwGnrAmQmlk5cww
+HOTCFJJI1CDvGkNUHoBIJ2E1dUY7nRok1UEoJ3Gc5YRVFuY67BOXuIHNsl8p0oFy
+DTJhx10sPekH2Pc4UMYlIchIy0hxHkilfEYFCTQiVHPODRFUEyFse4w9oERiWyaF
+J6LYKRKCPYQ82yCBRlyFPDwNK5Zd6hRLjusL7QkqJLKUAsABU8gIaQIiQTJGMSIc
+QCDJuIuZkEARMC6AGxvluxQZZ+VoHpY0QjVjnv+sf0C4xmCRimu2VT2Js1jFg/bt
+QJbV02LOJhup5/LVIMt/GZVlGGm7XexEA5I0jCPLyir/hY3gTgeG62EC5TBXWC4c
+2SvPgYa1lNoISjxPcMqVZakMwgQbDgSk0IoCYBck0VpzZTcE83xDjHGx0uBqw8Tf
+HF3f9hQV62npRSIbSsAZnTrcP7vQ1Fq4vvm6/BwVWm9ou3a6VnzQ8sejd9x527Jj
+3y/9qXRf2/KbZG/Pl/XJr7a0jLwwf8mr67sO9Nfnjl1a9tHeY5MXry48/nrfmRdL
+o591dW+nt154su/H8SuPzfr2WX7yzPYVd+/Z/+vKph3Nc9++Z/2OD39fvGRvnC7o
+2dLxYNZbRHN69118Pz0yPL71/pc3PrP7xKn5E1vfPbX7jcanhx5+/PTV2/eMryPn
+PqdJH36rcr5/NmUHD67adHnXm3eteu503cev/RbecqX7/MbKpuRsaemCc0M/v9Tx
+A/9mcmxD48S8yi9dF450rO56qg1d3jlRv7Thu7P3tvccnx7/+pGj+xbfvPmdp79o
+mZozcaB9+pWOB3aObYNt86afbx6eXlg7dHhMtPwJu2uLRg==
+=C0cu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/koen_hendriks
+
+==================================================================
