@@ -1,7 +1,7 @@
 image: koenhendriks/phpdocker:7.3
 
 deploy:
-  stage: deployment
+  stage: deploy
   environment:
     name: 'Deployment'
     url: https://koenhendriks.com
