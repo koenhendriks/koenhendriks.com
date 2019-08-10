@@ -1,3 +1,5 @@
+image: koenhendriks/phpdocker:7.3
+
 deploy:
   stage: deployment
   environment:
