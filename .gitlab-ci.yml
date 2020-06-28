@@ -3,7 +3,7 @@ image: koenhendriks/phpdocker:7.3
 deploy_dot_com:
   stage: deploy
   environment:
-    name: 'Deployment'
+    name: 'Deployment koenhendriks.com'
     url: https://koenhendriks.com
   only:
     - master
@@ -20,8 +20,8 @@ deploy_dot_com:
 deploy_dot_nl:
   stage: deploy
   environment:
-    name: 'Deployment'
-    url: http://koenhendriks.nl
+    name: 'Deployment koenhendriks.nl'
+    url: https://koenhendriks.nl
   only:
     - master
   before_script:
