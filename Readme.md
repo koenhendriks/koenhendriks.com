@@ -1,6 +1,6 @@
 # Koenhendriks.com  
 
-This repo is the current live version of [koenhendriks.com](https://koenhendriks.com)
+This repo used to be the current live version of [koenhendriks.com](https://koenhendriks.com)
 
 
 ## Auto Deploy
